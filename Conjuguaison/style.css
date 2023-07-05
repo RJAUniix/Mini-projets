@@ -1,0 +1,75 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+    font-family: Century Gothic, sans-serif;
+    font-weight: normal;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background: #222222;/* Couleur de Fond */
+}
+#verb {
+    margin-left: 50px;
+    color: black;
+    border-radius: 5px;
+    padding : 5px 10px; 
+}
+
+.btn {
+    border-radius: 5px;
+    padding : 5px 10px; 
+}
+
+#cadre1 {
+    margin-left: 50px;
+    margin-top: 100px;
+    border:solid 2px black;
+    width: 200px;
+    height: 300px;
+    box-shadow: 0px 0px 10px black;
+	background: #ffffff;
+}
+
+#cadre2 {
+    margin-top: -254px;
+    margin-left: 310px;
+    border:solid 2px red;
+    width: 200px;
+    height: 300px;
+    box-shadow: 0px 0px 10px red;
+	background: #ffffff;
+	color: red ;
+}
+
+#cadre3 {
+    margin-top: -350px;
+    margin-left: 580px;
+    border:solid 2px green;
+    width: 200px;
+    height: 300px;
+    box-shadow: 0px 0px 10px green;
+	background: #ffffff;
+	color: green ;
+}
+
+#cadre4 {
+    margin-top: -254px;
+    margin-left: 850px;
+    border:solid 2px blue;
+    width: 200px;
+    height: 300px;
+    box-shadow: 0px 0px 10px blue;
+	background: #ffffff;
+	color: blue ;
+}
+
+#cadre5 {
+    margin-top: -350px;
+    margin-left: 1110px;
+    border:solid 2px #ff5500;
+    width: 210px;
+    height: 300px;
+    box-shadow: 0px 0px 10px #ff5500;
+	background: #ffffff;
+	color: #ff5500 ;
+}
