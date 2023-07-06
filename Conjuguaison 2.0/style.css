@@ -1,0 +1,112 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+    font-family: Century Gothic, sans-serif;
+    font-weight: normal;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background: #222222;/* Couleur de Fond */
+}
+#verb {
+    margin-left: 50px;
+    color: black;
+    border-radius: 5px;
+    padding : 5px 10px; 
+}
+
+.btn {
+    border-radius: 5px;
+    padding : 5px 10px; 
+}
+
+div
+{
+width: 210px;
+height: 250px;
+margin-top: 20px;
+border: 2px solid #000;
+position: absolute;
+padding-left: 10px;
+padding-top: 10px;
+}
+
+#cadre1 {
+    margin-left: 50px;
+    border:solid 2px blanchedalmond;
+    box-shadow: 0px 0px 10px blanchedalmond;
+	background: black;
+    color: blanchedalmond;
+}
+
+#cadre2 {
+    margin-left: 310px;
+    border:solid 2px red;
+    box-shadow: 0px 0px 10px red;
+	background: black;
+	color: red ;
+}
+
+#cadre3 {
+    margin-left: 570px;
+    border:solid 2px rgb(2, 158, 2);
+    box-shadow: 0px 0px 10px rgb(2, 158, 2);
+	background: black;
+	color: rgb(2, 158, 2) ;
+}
+
+#cadre4 {
+    margin-left: 830px;
+    border:solid 2px rgb(0, 81, 255);
+    box-shadow: 0px 0px 10px rgb(0, 81, 255);
+	background: black;
+	color: rgb(0, 81, 255) ;
+}
+
+#cadre5 {
+    margin-left: 1090px;
+    border:solid 2px #ff5500;
+    box-shadow: 0px 0px 10px #ff5500;
+	background: black;
+	color: #ff5500 ;
+}
+#cadre6 {
+    margin-top:280px;
+    margin-left: 50px;
+    border:solid 2px #fbff00;
+    box-shadow: 0px 0px 10px #fbff00;
+	background: black;
+	color: #fbff00;
+}
+#cadre7 {
+    margin-top:280px;
+    margin-left: 310px;
+    border:solid 2px rgb(0, 255, 255);
+    box-shadow: 0px 0px 10px rgb(0, 255, 255);
+	background: black;
+	color: rgb(0, 255, 255);
+}
+#cadre8 {
+    margin-top:280px;
+    margin-left: 570px;
+    border:solid 2px rgb(255, 5, 242);
+    box-shadow: 0px 0px 10px rgb(255, 5, 242);
+	background: black;
+	color: rgb(255, 5, 242) ;
+}
+#cadre9 {
+    margin-top:280px;
+    margin-left: 830px;
+    border:solid 2px rgb(175, 44, 44);
+    box-shadow: 0px 0px 10px rgb(175, 44, 44);
+	background: black;
+	color: rgb(175, 44, 44);
+}
+#cadre10 {
+    margin-top:280px;
+    margin-left: 1090px;
+    border:solid 2px rgb(0, 255, 149);
+    box-shadow: 0px 0px 10px rgb(0, 255, 149);
+	background: black;
+	color:rgb(0, 255, 149);
+}
